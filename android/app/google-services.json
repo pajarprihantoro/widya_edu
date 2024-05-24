@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630921864559",
+    "project_id": "edspert-advance",
+    "storage_bucket": "edspert-advance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630921864559:android:295d737788604f0289349a",
+        "android_client_info": {
+          "package_name": "com.example.app_widya_edu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgJYZnbTs5Rf2AxDb83BsgjPnA0bG-vbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
